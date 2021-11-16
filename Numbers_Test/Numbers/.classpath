@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-angle-1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-angle-1.0.jar" sourcepath="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-angle-1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-angle-1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-arrays-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-arrays-1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-arrays-1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-combinatorics-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-combinatorics-1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-combinatorics-1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-complex-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-complex-1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-complex-1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-core-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-core-1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-core-1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-examples-jmh-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-examples-jmh-1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-examples-jmh-1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-field-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-field-1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-field-1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-fraction-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-fraction-1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-fraction-1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-gamma-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-gamma-1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-gamma-1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-primes-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-primes-1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-primes-1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-quaternion-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-quaternion-1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-quaternion-1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-rootfinder-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-rootfinder-1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Slzbin/OneDrive/桌面/2 软件测试  （含实验）/4 实验/1 单元与集成测试/commons-numbers-1.0/commons-numbers-rootfinder-1.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
